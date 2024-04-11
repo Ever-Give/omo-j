@@ -1,0 +1,240 @@
+Launch Tower
+
+Author: Justin20
+
+*000*2024-01-15 06:38
+
+The chime of a phone alarm woke Isabelle Wilkins painfully early one August morning. She startled awake, retreated into the covers for a minute, but perked up as soon as she remembered why she was up so early. Today was launch day.
+
+Within ten minutes she browned a bagel in the toaster and then headed into the bathroom, where she showered and used the toilet. She dressed in light clothes and then stepped out of the small apartment onto brown grass. It stretched in every direction, occasionally interrupted by dead trees and oil wells. The apartment and its surroundings weren’t amazing, but Isabelle didn’t care, because it was temporary housing for the employees of Total Orbit, one of the newest startups fighting for a slice of the commercial space pie. The company could have made her sleep in a tumbleweed patch and she wouldn’t have cared. She loved her job, and to be just four years out of college and hold the title of propulsion engineer at an aerospace company on the verge of striking it big was a major bit of good luck for her.
+
+The door of the next apartment over opened and a woman about Isabelle’s age stepped out. “Good morning, Izzy,” she said.
+
+“Morning, Gloria,” Isabelle replied. Gloria Ortiz had been hired by Total Orbit at the same time as Isabelle; she was an electrical engineer responsible for the rocket’s guidance system and avionics. They’d been fast friends since their first day on the job, and on weekends they often drove out to Roswell or El Paso together to escape the crushing boredom of the Permian Basin oil country. Now they were carpooling to the Total Orbit launch site, tucked in between oil fields near the border with New Mexico.
+
+“The social media rocket nerds are already awake,” Gloria reported. “They’re saying that this is our chance to prove ourselves as a legitimate rocket company. They’re also saying that if this launch goes wrong we’ll probably go bankrupt.”
+
+“Does that bother you?”
+
+“Only because they’re right,” Gloria admitted. “They’ve also mentioned one record we’re likely to set: We won’t be the first company to launch a rocket, land a rocket stage, or put a payload in orbit.”
+
+“Damn SpaceX,” Isabelle muttered.
+
+“But we will be the first one to launch an orbital rocket from an inland spaceport,” Gloria pointed out. That made sense: Every other commercial rocket so far had launched from either Vandenberg Space Force Base in California or Cape Canaveral in Florida, with their trajectories taking them out over ocean during the flight. However, neither the state government or the FAA apparently cared about range safety anymore, so they’d approved Total Orbit’s license to build a spaceport in the middle of the prairie. Most of the engineers were worried about whether such a decision was safe, and with good reason: Rockets launching towards the southeast would thread the needle between Corpus Christi and San Antonio, and even ignoring the larger cities there were still a hundred different oil towns and farming communities that would be devastated if a rocket fell on them, literally out of the blue. It was for good reason that rockets didn’t normally fly over populated areas.
+
+With so much at stake for this launch, Gloria and Isabelle couldn’t afford to make a single mistake.
+
+…
+
+As Isabelle stepped onto the launch tower, she took a moment to savor the experience. Beside her, Gloria was doing the same. Even at this early hour, with the first traces of sunlight barely visible on the horizon, dozens of workers wearing coveralls and work boots were already rushing back and forth with checklists and tools, tending to the rocket. Here on the first level of the tower, a few thick hoses were suspended overhead. They ran to an access arm accessible by a catwalk to supply the rocket with kerosene and liquid oxygen. Vapor leaked from the liquid oxygen line at its interface with the rocket, and the mist swirling around the five engines at the bottom of the vehicle created a tantalizing sight that stirred something deep within Isabelle’s soul that lusted after the technological marvel of the science fiction scene before her.
+
+Her stupor was interrupted by heavy footsteps behind her, followed by a hard slap on the back. “Howdy, Izzy!” a deep voice called. “You ready to light this candle?”
+
+Isabelle turned around. Ruben Connor, Total Orbit’s 30-year-old launchpad safety officer, was 6’2” of Texan swagger and bravado and a commanding force on the launch tower. He’d added his own belt buckle to his coveralls, and Isabelle imagined that he’d also wear a ten-gallon cowboy hat if he could – but Ruben took his job seriously, and if he found anybody without their protective equipment on launch day he’d kick their ass back to El Paso.
+
+“Glad you’re in a good mood, Ruben,” she replied. “How’s the rocket?”
+
+“She’s a beauty, all right! One little hitch – we’ve got an electrical issue in the second-stage avionics module. Can you mosey up there and take a look at it, Gloria?”
+
+“Roger,” Gloria said. “Take it easy, you two.”
+
+As Gloria turned towards the stairs, Isabelle and Ruben headed towards the rocket. They joined the rest of the propulsion engineers checking the fuel lines and turbopumps; their job was one of the most dangerous launch day tasks, so Reuben was there to look over their shoulder for the entire morning. As they worked, Ruben reminded the crew to take frequent water breaks. Isabelle welcomed the interruptions, and by the time the engine inspection was finished she’d worked her way through most of her water supply. I should really pace myself, she thought – as a safety measure, the launchpad water was turned off early on launch day (except for the fire suppression systems, of course), and with the mounting heat she couldn’t trust the water jugs that had been placed on each level of the tower to last very long either. There might not be any refills.
+
+The other consequences of drinking so much water didn’t even cross her mind as she started up the stairs with the rest of her team to inspect the second stage engines.
+
+…
+
+Four levels up, Gloria stared at the laptop with narrowed eyes. “Fuck, fuck, fuck!”
+
+“Problem?” a technician asked.
+
+“Sustainer inertial guidance cannot initiate ground reference frame,” she hissed, reading the error on her screen.
+
+“English, please?”
+
+“The rocket needs to know where it is during flight,” Gloria explained, exasperated. “The avionics starts off with an exact definition of its position and attitude at launch, and then it updates its position based on accelerometer data – but it can’t get the initial position lock from our ground station!”
+
+“What should I do?”
+
+“Call a maintenance crew and tell them to start examining the entire length of the DS-12 data transmission cable, which goes from here to four antenna arrays a mile away from the launchpad. A break somewhere in that line is the most likely cause of the issue I’m seeing. Go!”
+
+The technician scurried off as Ruben and the propulsion team arrived at the upper level of the tower. “How’s it going, Gloria?” Isabelle asked.
+
+“Real fucking bad. The guidance system isn’t working and we need to send a crew out to examine a remote transmission station.”
+
+“How long will it take to lick this?” Ruben asked.
+
+“I don’t know. Maybe ten minutes, maybe four hours. If it takes too long I’m worried we’ll need to scrub.”
+
+“We’re launching a dummy payload so we don’t have any kind of launch window to hit,” Ruben said. “I’ll give the FAA a holler and see if we can’t extend our no-fly-zone through this afternoon. Until then, you can get your team working on the propulsion inspection, Izzy.”
+
+“Actually,” Izzy said, “second-stage engine checks require guidance data to run, since we need to make sure the thrust vectoring will respond to changes in upper-atmosphere winds. I can’t finish that until Gloria works out the avionics issue.”
+
+Ruben thought for a minute. “In that case, I’ll tell everybody who’s finished their jobs to get off the launch tower; avionics and propulsion will need to wait until we can get that cable working. I’ll try and get the FAA on the horn in the meantime.”
+
+…
+
+With Ruben gone and no work to do, Gloria and Isabelle both had their first real moments of rest since waking up early that morning. They sat in the shade and gazed out at the plains; from their vantage point they could see thousands of oil wells and the dirt road marking the border between Texas and New Mexico. With nothing else to occupy their time, they talked idly and let their minds wander, trying not to think about the massive tanks of high-pressure kerosene and oxygen barely ten feet away from them.
+
+One thing that Isabelle realized, without any work to focus on, is that she had to pee surprisingly badly. That was no surprise; it had been over four hours since her last bathroom break, and she’d had a lot to drink since then. She’d sweated a lot of water out in the daytime heat – but since they’d been working since morning, it hadn’t been warm enough to prevent a large amount of fluid from travelling down to her bladder.
+
+Isabelle stood up. “Where are you going?” Gloria asked.
+
+“Bathroom.”
+
+“You know the launchpad water’s already been turned off, right? It’s probably not a pretty sight in there.”
+
+“Well, I have to go,” Isabelle said, and went off – and then returned a minute later, a pained expression on her face. “You’re right. It’s awful.”
+
+“I have to go, too,” Gloria said. “What are we going to do?”
+
+“Suck it up and use the bathroom?”
+
+“Do you really want to do that?”
+
+Isabelle sat back down on the floor next to Gloria and pulled her knees to her chest. “No.”
+
+“Well, then we wait.”
+
+The walkie-talkie on Gloria’s belt crackled and she answered. Isabelle listened to a few minutes of her one-sided conversation, shifting her legs into a new position every few seconds. By the time Gloria got off the radio, it was clear that waiting wasn’t going to be an option.
+
+“Who was that?” Isabelle asked.
+
+“The cable maintenance team. They’ve located the break and they should have it fixed in an hour.”
+
+“An hour? That’s too long? I mean, after they fix it, you and I still need to run our inspections.”
+
+“I know,” Gloria said, and fell silent.
+
+Two technicians walked by them then, talking in Texas drawl. Gloria identified them as local labor, hired off the oil rigs in the Permian basin to work on simple launch support activities where physical endurance was more important than engineering know-how. The two men walked over to the edge of the launch tower, stood at the railing, and unzipped the trousers of their coveralls.
+
+Isabelle gaped. “Are they-”
+
+Her question was answered when she saw two golden, shimmering streams fall between their legs and descend to the unseen ground below.
+
+“Fucking rig workers,” Gloria grumbled. “These are the kinds of workers you get when you hire cheap from the energy companies.”
+
+Over at the railing, the workers were laughing a bit. One of them turned slightly, his stream intersecting that of the man next to him. A brief swordfight resulted, along with more laughing and shouting. Isabelle watched, equal parts curious and disgusted, as the workers shook themselves off and zipped their coveralls back up before walking away.
+
+“Screw this,” Gloria said, and stood up. “Come on, Izzy, we’re finding someplace to piss.”
+
+“You mean… we’re going to pee off the tower?”
+
+“Are you kidding? That’s just asking for trouble and wet socks. I mean let’s find somewhere secluded around here where we can look out for each other and take turns.” Gloria looked at Isabelle’s shocked expression. “Oh, come on. We can’t hold it forever. Unless you want to go into that awful bathroom, this is our best bet.”
+
+“But- the launch tower- the equipment-”
+
+“Is designed to withstand rainfall,” Gloria said. “If you leave a puddle, nobody will leave the difference. Besides, the water bottle I brought has a wide neck, and I’m hoping I can just go in that.”
+
+“My bottle… doesn’t,” Isabelle said.
+
+“Well, you’ll just have to rough it, then.”
+
+…
+
+Gloria crept into the narrow gap between a storage locker and the launch tower’s elevator shaft. “I’ll go first since I don’t want to have to stand in your puddle,” she told Isabelle, who nodded reluctantly while bouncing on her toes slightly. “Hand me my water bottle.”
+
+Isabelle did as instructed and turned around, embarrassment creeping into her expression. Behind her, Gloria started unfastening her coveralls, and she heard Velcro straps being opened and zippers being lowered. After a few moments of effort, the coveralls were off, and she handed them to Isabelle, who took them with a worried look. Gloria was still fully clothed in light athletic wear, but in the context of launchpad operations, she was practically naked.
+
+“Relax,” Gloria said, seeing the look on Isabelle’s face. “Full protective gear is only necessary during fuel loading and inspections.”
+
+“Hurry up, then,” Isabelle said, and turned back around.
+
+Gloria unscrewed the top of the bottle and set it next to her. Then she gripped the waistband of her shorts and took a quick glance around, reminding herself that the launch tower was nearly abandoned, and that they hadn’t seen anybody walk by for over ten minutes. With a quick flourish, the shorts and underwear were down, and Gloria was left in the unusual position of being half-naked right next to a multimillion-dollar rocket. She spread her legs, held the bottle against herself, and waited.
+
+And waited. She had to go quite badly, but she couldn’t relax. Gloria closed her eyes and focused. Waterfalls, garden sprinklers, thunderstorms, fire hoses-
+
+A brief spurt shot into the bottle. Gloria felt herself relaxing, and felt that within a few seconds she’d be peeing full force.
+
+“Hurry up!” Isabelle whined, and Gloria tensed up again.
+
+“I can’t do it standing,” she said. “It feels too weird.”
+
+Gloria crouched down and placed her back against the wall, waddling forward a bit so that her weight was supported by her shoulder blades and there was a few inches of clearance between the wall and her ass. Then she picked up the bottle and let go.
+
+Isabelle heard a powerful stream strike the plastic bottle, as well as a loud hiss and a sigh from Gloria. “This feels way better,” she said. “Just like I’m pissing in the dirt outside.” After a few seconds, the noise changed from a stream spattering against plastic to a stream hitting liquid, which Isabelle didn’t appreciate one bit. She tried not to squirm or reveal how desperate she felt, but she wholeheartedly wished that Gloria would hurry up and let her have her turn.
+
+Instead, the better part of a minute passed before Isabelle heard the stream start to taper off. She turned around to trade places with Gloria – a bit too eagerly, since her friend still had her underwear around her knees and a bottle filled nearly to the brim pressed against a sensitive area.
+
+“Oh my God!” Isabelle gasped.
+
+Gloria scoffed. “It’s fine. Here, hold this while I get my clothes back on.” She handed the bottle to Isabelle, who was too stunned to say anything. The bottle was warm, but to Isabelle’s relief the outside wasn’t wet; apparently Gloria had good aim.
+
+“Okay, your turn.” Gloria had stepped out of the alcove and was zipping her coveralls back up. Isabelle eagerly stepped past her and started tearing at her garments, disrobing with a haste that was spurred by the pressure she felt in her bladder. The last time she’d had to go this badly was during a thermodynamics exam during her college years. She’d sustained an uninterrupted night of cramming before the exam with a steady supply of caffeine-loaded drinks, some of which still hadn’t left her system when she sat down in the lecture hall. By the time she’d answered the last question, her legs were twisted into a pretzel and she had a hand buried in her crotch. The bathroom outside the lecture hall was full, so with stiff legs she’d speed-walked into a service alley behind the building and dampened the concrete with a clear stream that lasted close to a minute.
+
+That exam was the last time Isabelle had peed outside of a bathroom, but by now the overwhelming desire for relief had quashed her qualms over popping a squat on the launch tower. Moving quickly, Isabelle her pants down and set herself into a low squat with her knees close to her chest. She set her left hand down behind her to support her weight as she leaned back slightly and pulled her clothes out of the splash zone with the right hand. Then she released.
+
+The stream shot out remarkably far, splashing against the steel floor just beyond Isabelle’s ankles. It was a pale shade of yellow, and she briefly felt proud that she’d managed to keep herself well-hydrated on such a warm day. Then she spread her legs slightly, because the puddle was growing fast. As her stream went on, the sound of urine striking metal became louder and louder, and Isabelle started to worry that she’d be discovered in her compromised position by a curious engineer. But Gloria was still there to stand guard, and the knowledge let Isabelle focus on keeping the last few drops clear of her feet as the stream diminished. Within a minute she was finished, and she pulled her pants up as she rose from the squat.
+
+Gloria turned and looked down at Isabelle’s puddle. “You really had to go, huh?”
+
+Isabelle blushed and didn’t say anything.
+
+“Bet that felt real good,” Gloria said, and then handed Isabelle her jumpsuit. Just as she finished putting it back on, she heard heavy footsteps coming up the stairs.
+
+“It’s Ruben!” she gasped, keeping her voice down. “Hurry!” She and Gloria darted away from the puddle, grabbed a random checklist from a workbench, and made a show of reading it intently as Ruben rounded the corner from the stairwell.
+
+“I’m tellin’ you guys,” he bellowed, “those FAA sons-of-bitches take their sweet time answering the phone! We’ve got our launch clearance extended, so let’s hope those fellers we’ve got checking out the cable can get their hogs together and get us a launch soon, because I’m dying for a piss.”
+
+Isabelle nervously eyed the corner where she’d relieved herself, but Gloria responded calmly. “We can turn around it you want to go over to the railing,” she said.
+
+Ruben grinned and started walking towards the railing. “All right – no peeking, you two!” Gloria and Isabelle turned around as he unzipped his coveralls. The way they’d been designed, it would be much easier for him to relieve himself than it had been for the two women waiting with their backs politely turned. All he had to do was lower the crotch zipper and pull out his manhood.
+
+The stream took over a second to reach the ground from Ruben’s position near the top of the launch tower. He leaned back slightly and tried going for distance; he couldn’t see exactly where his impact point was on the ground far below, but he’d definitely set a personal record. With his bladder still feeling quite full, he then tried to trace the outline of Texas in the dirt. Unfortunately, the stream split into a spray of droplets as it fell, which was no good for drawing anything. Ruben’s stream trailed off around twenty seconds later, and he shook himself off and zipped up before turning back to face the rocket.
+
+“Whoo-ee! That feels good!” he shouted to Isabelle and Gloria. “Either of you need to take a leak?”
+
+Isabelle and Gloria looked at each other and held the gaze for a moment. Isabelle raised her eyebrows, and Gloria rolled her eyes slightly.
+
+“No,” Gloria said carefully. “We don’t need to go now.”
+
+Epilogue
+
+“T-minus thirty seconds.”
+
+Fifty pairs of eyes watched the displays in the Total Orbit launch control room. Twenty engineers sat at workstations down on the floor, and thirty more stood in the observation room overlooking the control center. There were three screens at the front of the room; one showed tracking and guidance data, another had altitude and velocity readouts, and the third – the one that most of the spectators were looking at – showed a live picture of the rocket.
+
+Neither Gloria nor Isabelle had been selected for a flight controller role today, so they stood side by side in the observation room, eyes glued to the screen as the announcer began the countdown.
+
+“T-minus ten, nine, eight…”
+
+Isabelle bit her lip. There were a million ways that the engines on the first stage could malfunction and destroy the entire vehicle. The launch was the moment of truth, when she’d finally find out if her work would send the rocket to orbit or careening into the West Texas dirt.
+
+“Seven, six, five, four…”
+
+As the main engines ignited and steam started billowing from the rocket, Isabelle gasped. She grabbed onto Gloria’s arm with both hands, her nerves having got the best of her.
+
+“Three, two, one, liftoff!”
+
+The hold-down bolts released and the rocket sprang up from the launchpad, accelerating at over 3 g’s. It soared into a cloudless sky, leaving behind only the white vapor trail of the four main engines as it started rolling over and picking up downrange velocity.
+
+“Vehicle is supersonic.”
+
+Some of the engineers in the control room, the ones who’d worked on the rocket’s aerodynamic simulations, relaxed. With the rocket supersonic, it had passed the point in the flight where it was exposed to maximum aerodynamic loading, and the airframe would be able to stand up to the rest of the flight with ease.
+
+“Passing Mach 5. All systems nominal.”
+
+By now the rocket was just a faint point of light traveling south in the sky. Even the best ground-based cameras could only make out the blurry vapor trail of the main engines as it climbed out of the lower atmosphere.
+
+“Passing Mach 8. Contingency abort modes now available.”
+
+Contingency abort was a euphemism for explosion. The rocket had picked up enough velocity that, in the event of a major malfunction, the debris would keep travelling downrange and fall harmlessly into the Gulf of Mexico. Isabelle let out a sigh of relief; her greatest worry so far during the flight was that some catastrophe would happen as the rocket passed over San Antonio.
+
+“Booster cutoff in three, two, one, mark. Cutoff and separation.”
+
+The first stage, high in the upper atmosphere, separated from the rest of the vehicle and began a slow pirouette under the power of reaction-control jets. It would turn around and burn off the last of its fuel to land near Corpus Christi, using technology that SpaceX had developed and that every rocketry startup had used since.
+
+“Sustainer ignition.”
+
+The second stage engine lit up. Isabelle finally relaxed a bit; now that the engine was running, it was unlikely to fail during its five-minute orbital insertion burn. The rocket was also staying true along its planned velocity vector, so it looked like Gloria’s work held up too.
+
+The view from the onboard camera showed the Gulf Coast and a few strings of clouds slowly rolling by beneath the rocket. Looking at the video, it was hard to tell that the rocket was moving twenty times faster than the speed of sound. The only thing that was clear from the transmission was that the rocket had long ago left the atmosphere behind and was steadily accelerating towards orbital velocity.
+
+“Sustainer shutdown in three, two, one… shutdown. Residuals nominal.”
+
+The control room erupted in cheering. They’d made orbit! Gloria grinned wildly and gripped Isabelle by the shoulders as both of them started laughing joyously. Their exhalation at their accomplishment was only matched by the relief of having a successful launch behind them, with no more need to fret about engines that wouldn’t ignite or tracking systems that would send the rocket spinning out of control.
+
+“Kiss me, Izzy,” Gloria said. Isabelle thought that sounded like a good idea, so she did.
+
+She was right. It was a good idea.
+
