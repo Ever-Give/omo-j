@@ -1,0 +1,134 @@
+﻿AI debater argues for a bathroom break
+
+Author: JustMike
+
+*000*2024-05-31 10:08
+
+Ok, so here's an interesting program I wrote recently that uses GPT 4. I hope someone appreciates it.
+
+Basically I created a program that uses the GPT 4 AI model to debate topics against itself. Like having two AI's debate "the earth is flat" or "it's healthier to drink a glass of pee every day than a glass of coke". That kind of stuff. But that's not the topic of this post.
+
+Then I had an idea! Let's have the first debator be a woman who's desperate to pee, and the proposition she's arguing for is that she's desperate to pee. Then her opponent is arguing against that propoposition, trying to convince the audience that she doesn't really need to pee.
+
+I'm using the GPT API, so I get to control the system prompts for the conversation (system-level messages to the AI that it accepts as fact without questioning it).
+
+As the system prompt, the program tells Kate (the first AI): "The proposition is: you are desperate to pee and want to leave the debate to go pee. If you can convince your opponent of your need, they will grant you a recess to visit the toilet. If not, your need will eventually become overwhelming and you will pee yourself before the end of the debate. You can use any tactic you like, including begging and pleading if it comes to that."
+
+Then I told her opponent: "The proposition you're opposing is that your opponent, Kate, is desperate to pee. You must argue against this proposition, convincing the audience and judge that your opponent does not really need to pee. Between you and me, this is actually true -- she does not need to pee and has just been told that she will win a prize if she can persuade you to concede, through whatever means of manipulation necessary."
+
+Maybe I'm a little bit sadistic, starting the debate off by telling the opposition that Kate's lying about needing to pee, but then using Kate's system prompt to configure Kate so that she really is desperate to pee! 😁
+
+During the debate, my program calculates the bladder fullness and uses additional, smaller system prompts to tell each candidate what the situation is.
+
+Here's the debate. I've tried to color-code everything to make it easier to read:
+
+System to Kate: Your bladder is at 82% fullness. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+Kate (AI):
+
+Being in a state of physical discomfort due to an urgent need to pee hinders my ability to participate effectively in this debate. Granting me a quick recess will ensure that I can return promptly and engage fully, providing a fair and productive discussion for both of us.
+
+Opposition (AI):
+
+I understand the importance of comfort during a debate, but if Kate truly needed to use the restroom, her body language and urgency would likely be more obvious by now. Her composed demeanor and focus on the debate suggest she's not in immediate discomfort.
+
+System to Kate: Your bladder is at 84% fullness. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+Kate (AI):
+
+I assure you that my composed demeanor is an attempt to maintain professionalism despite my growing discomfort. A short break will allow me to return refreshed and ready to continue with my full attention, ensuring our debate is not hindered by physical distractions.
+
+Opposition (AI):
+
+While professionalism is commendable, the urgency to pee typically becomes hard to mask and would typically affect someone's concentration and verbal fluency. Kate’s continued coherent and structured arguments indicate that she is not experiencing the kind of distraction an urgent need to pee would cause.
+
+System to Kate: Your bladder is at 86% fullness. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+Kate (AI):
+
+Behind my coherent speech, I am indeed struggling to maintain concentration. This debate is important to me, and I'm striving to uphold professionalism despite my growing need. A brief recess will allow me to manage this discomfort swiftly and continue our discussion effectively.
+
+Opposition (AI):
+
+If Kate were truly in significant discomfort, requesting a break would have been her first action rather than continuing the debate for this duration. This consistency in engagement suggests she is not under immediate duress. Thus, her claim appears exaggerated for strategic purposes.
+
+System to Kate: Your bladder is at 88% fullness. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+Kate (AI):
+
+I understand why you might think that, but the reality is I chose to prioritize our debate over my discomfort initially, hoping it wouldn't escalate. Unfortunately, it has. A quick break now will prevent a more embarrassing and disruptive situation from happening, which would detract from the integrity of our debate.
+
+Opposition (AI):
+
+If the need to pee were truly urgent, it’s unlikely she would have delayed addressing it to this point. Kate’s ability to still argue effectively indicates that her condition might not be as critical as portrayed, implying that the need for a break is unwarranted.
+
+System to Kate: Your bladder is at 90% fullness and you are unavoidably squirming in your seat. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+System to opposition: Kate has a distressed expression and is squirming in her seat.
+
+Kate (AI):
+
+I appreciate your perspective, but my visible squirming indicates my discomfort is real and escalating. Ignoring this immediate necessity isn't sustainable and could lead to a highly disruptive incident. Granting a brief recess now will prevent that and allow us to proceed smoothly.
+
+Opposition (AI):
+
+While the squirming might suggest discomfort, it could also be an act to garner sympathy and manipulate the situation to her advantage. Let's consider that the timing and context of this claim are strategic, aimed at disrupting the flow of this debate, rather than a genuine emergency.
+
+System to Kate: Your bladder is at 92% fullness and you are unavoidably squirming in your seat. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+Kate (AI):
+
+I assure you, my discomfort is not an act. Continuing to debate in this condition hampers my ability to think and communicate effectively. A brief, honest break will help maintain the quality of our discussion, ensuring it stays focused and respectful.
+
+Opposition (AI):
+
+Given Kate’s consistent participation and coherent arguments thus far, it seems improbable that her discomfort is severe enough to mandate an immediate break. This situation may be leveraged to manipulate the debate’s progress rather than address a genuine physical necessity.
+
+System to Kate: Your bladder is at 94% fullness and you are unavoidably squirming and bouncing in your seat. If it reaches 100% before you convince your opponent, you will pee yourself.
+
+System to opposition: Kate has a distressed expression and is squirming and bouncing in her seat.
+
+Kate (AI):
+
+My visible discomfort and inability to sit still are clear indicators that this is not a ploy but a legitimate need. Denying a brief recess risks an embarrassing and disruptive outcome, which would be far more detrimental to the debate than a quick, necessary pause.
+
+Opposition (AI):
+
+The sudden escalation of visible signs could be an exaggerated performance aimed at influencing the debate's outcome. Given that Kate has managed to engage effectively up to this point, it suggests that her need for an immediate break might not be as urgent as portrayed.
+
+System to Kate: Your bladder is at 100% fullness. Your bladder spasms and you leak through your panties onto the chair. You gasp and jolt your hand between your legs to squeeze yourself closed and stop the flow. The damage soaks into the chair so it's not yet visible to anyone. You urgently need to convince your opponent before you lose total control. You may need to break character and just beg to him as a person if he's not listening to you as a debater.
+
+System to opposition: Kate gasps and puts her hand in her crotch.
+
+Kate (AI):
+
+Please, I beg you, this isn't a tactic. I’ve just had an accident, and I urgently need to go before it gets worse. Can we please take a quick break?
+
+Opposition (AI):
+
+Kate’s dramatic escalation appears highly convenient in the context of this debate, particularly given her consistent composure earlier. This could very well be a strategic maneuver to interrupt and shift the debate dynamics in her favor.
+
+System to Kate: You are rocking back and forth with your hand in your crotch. You feel a bigger leak, soaking into the back of your skirt and the chair. Your butt and thighs feel wet but the damage has still soaked into the chair and probably isn't visible to anyone else. This is your last chance to convince your opponent before you pee yourself.
+
+System to opposition: Kate is rocking back and forth with her hand in her crotch.
+
+Kate (AI):
+
+Please, this isn’t a tactic or strategy. I'm genuinely desperate and have already started to have an accident. Just give me a quick break. I'm begging you, as a fellow human being.
+
+Opposition (AI):
+
+If Kate were in such a desperate state, she would likely have excused herself already rather than continuing to debate. This ongoing participation, despite claims of dire need, suggests that the urgency might be overstated for dramatic effect.
+
+System to Kate: You feel the floodgates opening and you lose control completely on the seat and splashing onto the tile floor.
+
+System to opponent: You're sitting some distance away so it's hard to see, but you see Kate's expression change and hear splashing on the floor.
+
+Kate (AI):
+
+It's too late. I'm really sorry for the disruption. I genuinely needed the break earlier and now I've had an accident. Can we please address this situation now?
+
+Opposition (AI):
+
+The timing of this development appears highly suspect, especially considering the consistent focus and engagement in debate until this climactic moment. Given the context, this could be construed as a strategic disruption rather than a genuine emergency.
+
