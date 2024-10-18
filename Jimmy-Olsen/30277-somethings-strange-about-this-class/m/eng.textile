@@ -6,7 +6,7 @@ Author: Jimmy Olsen
 
 I wrote this on the spur of the moment. I'll robably do some revision soon. Comments encouraged!
 
-++++++++++++++++++++
+###
 
 I had a vague feeling that something wasn't right.
 
